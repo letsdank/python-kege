@@ -1,11 +1,3 @@
-TODO задания блять короче да
-
-файлы нужно подписывать как ege##.py
-## - где номер задания
-например, ege01.py - задание 01 егэ
-
-в каждый файл вставлять следующий комментарий:
-
 #   Copyright 2021 LetsDank
 #
 #   Licensed under the Apache License, Version 2.0 (the "License");
@@ -20,3 +12,6 @@ TODO задания блять короче да
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 
+
+
+def start():
