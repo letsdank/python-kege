@@ -1,3 +1,5 @@
+#   Copyright 2021 LetsDank (see LICENSE in root folder)
+
 print("=============================")
 print("КЕГЭ 2021 Решения задач :))")
 print("")

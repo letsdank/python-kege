@@ -1,3 +1,5 @@
+#   Copyright 2021 LetsDank (see LICENSE in root folder)
+
 def F(start, end):
     if end < start:
         return 0
