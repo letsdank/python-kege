@@ -20,3 +20,8 @@ TODO задания блять короче да
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 
+структура:
+папка re - решуегэ
+папка kp - поляков
+
+в каждой папке файл ege##.py, где ## - номер задания
