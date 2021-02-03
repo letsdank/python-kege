@@ -10,4 +10,3 @@ for i in range(174457, 174506):
     if numdel == 4:
         print(d[1], d[2])
 
-#123456
