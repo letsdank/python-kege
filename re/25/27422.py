@@ -10,3 +10,16 @@
 этого диапазона вывод на экране должна содержать следующие значения:'''
 
 
+for number in range(174457, 174506):
+    marker1 = 2
+    k = 0
+    for x in range (marker1, 174506//2):
+        if number % x == 0:
+            k += 1
+            if marker1 > 2:
+                del2 = x
+            else:
+                del1 = x
+            marker1 = x+1
+    if k == 2:
+        print(number, del1, del2)
